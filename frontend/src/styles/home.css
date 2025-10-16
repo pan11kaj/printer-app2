@@ -1,0 +1,23 @@
+/* .main-heading{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.main-container{
+    display:grid;
+    width: 50%;
+    height: 50%;
+
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: auto auto;
+}
+
+.container-holder{
+    display: flex;
+    justify-content: center;
+}
+@media screen and (max-width:420px) {
+    .main-container{
+        width: 100%;
+    }
+    
+} */
